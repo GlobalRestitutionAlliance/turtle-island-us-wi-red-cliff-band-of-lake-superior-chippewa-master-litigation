@@ -7,8 +7,8 @@ skills:
   name: Historical Intervention & Canal Concession Audit
   status: ACTIVE
   manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: nicaraguan-restitution-roadmap-and-qsf-trust-execution
-  name: Nicaraguan Restitution Roadmap & QSF Trust Execution
+- id: red-cliff-band-of-lake-superior-chippewan-restitution-roadmap-and-qsf-trust-execution
+  name: Red Cliff Band of Lake Superior Chippewan Restitution Roadmap & QSF Trust Execution
   status: ACTIVE
-  manifest_file: .antigravity/skills/nicaraguan-restitution-roadmap-and-qsf-trust-execution.yaml
+  manifest_file: .antigravity/skills/red-cliff-band-of-lake-superior-chippewan-restitution-roadmap-and-qsf-trust-execution.yaml
 total_skills: 3
